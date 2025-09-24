@@ -67,7 +67,7 @@ By default, the app will start on:
 👉 `http://127.0.0.1:5000/`
 
 On Raspberry Pi, it runs on `http://0.0.0.0:5000/` so other devices in your network can access it.
-
+material
 ---
 
 ## 🖥️ Usage
