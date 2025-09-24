@@ -1,0 +1,27 @@
+[
+  {
+    "id": 5,
+    "name": "Carrot",
+    "qty": "12"
+  },
+  {
+    "id": 4,
+    "name": "Beef",
+    "qty": "16"
+  },
+  {
+    "id": 3,
+    "name": "Egg",
+    "qty": "31"
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "qty": "7"
+  },
+  {
+    "id": 1,
+    "name": "Orange",
+    "qty": "4"
+  }
+]
