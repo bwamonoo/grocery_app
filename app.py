@@ -88,4 +88,5 @@ def delete_item(item_id):
 
 if __name__ == "__main__":
     ensure_data_file()
-    app.run(debug=True, host="0.0.0.0")
+    port = int(os.environ.get("PORT", 5000))  # default to 5000 locally
+    app.run(debug=False, host="0.0.0.0", port=port)
